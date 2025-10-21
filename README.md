@@ -4,7 +4,7 @@
 This lab analyzes a suspected phishing email and its URL. The analysis includes DNS resolution, WHOIS/RDAP investigation, HTTP/SSL inspection, VirusTotal checks, and IP threat intelligence.
 
 ⚠️ **Safety Disclaimer**  
-The phishing link analyzed in this lab is malicious. For safety, the live URL and IPs are not included. All analysis is based on screenshots, hashes, and safe metadata.
+This lab involved a malicious phishing URL hosted on Weebly. All sensitive information (live URLs, IP addresses, email addresses, and attachments) has been redacted in this public repository. Do **not** attempt to access, click, or execute any artifacts from this repo. Full raw indicators of compromise (IOCs) are stored privately and are available only on request for verified employers or instructors.
 
 ## Tools Used
 - PowerShell (DNS lookup, HTTP header checks)
