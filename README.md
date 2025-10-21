@@ -3,7 +3,7 @@
 ## Overview
 This lab analyzes a suspected phishing email and its URL. The analysis includes DNS resolution, WHOIS/RDAP investigation, HTTP/SSL inspection, VirusTotal checks, and IP threat intelligence.
 
-⚠️ Safety Disclaimer  
+⚠️ *Safety Disclaimer*  
 The phishing link analyzed in this lab is malicious. For safety, the live URL and IPs are not included. All analysis is based on screenshots, hashes, and safe metadata.
 
 ## Tools Used
