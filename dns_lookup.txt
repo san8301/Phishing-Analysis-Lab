@@ -3,4 +3,3 @@ Name                                           Type   TTL   Section    IPAddress
 securelogin-update[.]weebly[.]com              A      3451  Answer     74.115.51.[REDACTED]
 
 securelogin-update[.]weebly[.]com              A      3451  Answer     74.115.51.[REDACTED]
-
