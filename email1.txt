@@ -4,10 +4,11 @@ Subject: Urgent: Action Required to Update Payroll Information
 
 Dear Employee,
 We are updating our payroll system. Please log in to confirm your details at:
-[REDACTED] (malicious URL removed for safety)
+hxxps[:]//securelogin-update[.]weebly[.]com/login 
 
 Failure to complete this action by today will delay your next payment.
 
 Best,
 HR Department
+
 
