@@ -1,5 +1,6 @@
 Email1 - Visual Triage
 - Sender: hr@secure-company-portal.com (display: HR Department)
 - Subject: Urgent: Action Required to Update Payroll Information
-- URL found: https://payrollruntimesheet.weebly.com/verify.html
+- URL found: [REDACTED] (malicious URL removed for safety)
 - Red flags: urgency, external domain, single link prompting credential input
+
